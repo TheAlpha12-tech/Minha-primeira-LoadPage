@@ -178,7 +178,21 @@ body {
 }
 
 .html, body {
-  height: 100%;
-  margin: 0;
-  padding: 0;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.conteudo-nestle-foto{
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 250px; 
+    border-top: 40px;
+
+}
+
+.conteudo-autoescola-foto{
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 250px; 
+    border-top: 40px;
+
 }
