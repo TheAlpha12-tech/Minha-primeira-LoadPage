@@ -158,4 +158,27 @@ body {
     border-top: 40px;
 }
 
+.Sobre-mim-foto{
+    box-shadow: 4px 5px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 250px; 
+    border-top: 40px;
+}
 
+
+.lista-hobbies{
+    list-style-type: disc; 
+    padding-left: 20px; 
+}
+
+.conteudo-secundario-escrito-subtitulo2{
+    font-family: 'Righteous', cursive;
+    font-weight: 300;
+    font-size: 52px;
+    color: #fff2ef;
+}
+
+.html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
